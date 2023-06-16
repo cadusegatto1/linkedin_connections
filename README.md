@@ -2,7 +2,7 @@
 Script python that select recruiters to establish connection with their network
 
 ## 📖 Description
-This repository contains a powerful and efficient Python script designed to automate the addition of tech recruiters to your contact management system or recruiting platform. The main purpose of this script is to simplify and speed up the process of adding tech recruiters to your contact list by providing an automated and customizable solution.
+This repository contains a powerful and efficient Python script designed to automate the addition of especific people to your linkedin network. The main purpose of this script is to simplify and speed up the process of adding professionals with your requirements to your contact list by providing an automated and customizable solution.
 
 ## 🛠️ Functionalities
 **Automating repetitive tasks:** With this script, you can avoid the tedious task of manually adding some recruiters or specific people on your network.
@@ -18,10 +18,9 @@ This repository contains a powerful and efficient Python script designed to auto
 1. Clone or download the repository to your local environment.
 2. Make sure you have Python installed on your machine.
 3. Install the necessary dependencies, if any, using a package manager such as pip.
-4. Configure the data source with the information for the tech recruiters you want to add.
+4. Configure the data source with the information for the trype of professionals you want to add.
 5. Customize the script settings according to your needs.
 6. Run the script using the Python interpreter and wait for the process to complete.
-7. Check your contact management system or recruiting platform to confirm the successful addition of tech recruiters.
 
 ### 🖥️ Contribution
 Contributions are welcome! Feel free to open an issue or submit a pull request with improvements, bug fixes or new features.
