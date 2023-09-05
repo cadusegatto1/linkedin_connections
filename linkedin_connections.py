@@ -44,7 +44,7 @@ def click_buttons(button_list):
     global contagem
     for button in button_list:
         if contagem > 60:
-            break
+            return False
         else:
             try:
                 if button.text == "Follow":
@@ -156,7 +156,6 @@ if __name__ == '__main__':
             click_buttons(buttons)
 
             print("Indo para a próxima página...")
-
             success = go_to_next_page()
             if not success:
                 print("Não há mais páginas. Saindo...")
